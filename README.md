@@ -1,0 +1,2 @@
+# bobobox-bot
+Manual
